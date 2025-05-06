@@ -3,7 +3,7 @@
     <div class="headline">
       <!-- Logo -->
       <div class="logo-container">
-        <img src="@/assets/logo.png" alt="Logo" class="logo" />
+        <img src="@/assets/logoNew.png" alt="Logo" class="logo" />
       </div>
 
       <div class="allQuali">
@@ -124,7 +124,7 @@ export default {
 .qualification {
   display: flex;
   flex-direction: column;
-  gap: 2px;
+  gap: 12px;
   color: gray;
   font-size: 16px;
 }
@@ -138,9 +138,9 @@ export default {
 .split-line {
   display: inline-block;
   width: 2px;
-  height: 34px;
+  height: 52px;
   background: #ccc;
-  margin: 4px 18px;
+  margin: 2px 18px;
 }
 
 .qrCodes {
@@ -189,7 +189,7 @@ export default {
 }
 
 .logo {
-  max-width: 600px;
+  max-width: 400px;
 }
 
 .nav-link {
