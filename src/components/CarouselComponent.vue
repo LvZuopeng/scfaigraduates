@@ -3,7 +3,7 @@ import "vue3-carousel/carousel.css";
 import { Carousel, Slide, Navigation } from "vue3-carousel";
 import { ref, onMounted, onUnmounted } from "vue";
 
-const images = Array.from({ length: 5 }, (_, index) => ({
+const images = Array.from({ length: 8 }, (_, index) => ({
 id: index + 1,
 url: require(`@/assets/${index + 21}.jpg`), // 动态加载本地图片
 }));
