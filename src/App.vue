@@ -59,9 +59,9 @@
             >硕士招生专业简介</a
           >
           <a
-            href="https://www.scfai.edu.cn/zsb/info/1001/3383.htm"
-            class="nav-link"
-            >接收硕士推免生</a
+            href="https://www.scfai.edu.cn/zsb/info/1001/4056.htm"
+            class="nav-link-red"
+            >2026年接收硕士推免生</a
           >
         </div>
       </div>
@@ -200,6 +200,17 @@ export default {
 }
 
 .nav-link:hover {
+  color: #782c2e;
+}
+
+.nav-link-red {
+  margin: 0 10px;
+  font-size: 18px;
+  text-decoration: none;
+  color: red;
+}
+
+.nav-link-red:hover {
   color: #782c2e;
 }
 
