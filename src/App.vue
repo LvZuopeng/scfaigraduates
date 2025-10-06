@@ -44,13 +44,13 @@
         <div class="buttonGroup">
           <span class="buttonGroupTitle">硕士招生</span>
           <a
-            href="https://www.scfai.edu.cn/zsb/info/1001/3384.htm"
-            class="nav-link"
+            href="https://www.scfai.edu.cn/zsb/info/1001/4096.htm"
+            class="nav-link-red"
             >硕士招生章程</a
           >
           <a
-            href="https://www.scfai.edu.cn/system/_content/download.jsp?urltype=news.DownloadAttachUrl&owner=1268132975&wbfileid=7D8A3AE95C2924DDA642841A200B041A"
-            class="nav-link"
+            href="https://www.scfai.edu.cn/zsb/info/1001/4096.htm"
+            class="nav-link-red"
             >硕士招生专业目录</a
           >
           <a
@@ -60,7 +60,7 @@
           >
           <a
             href="https://www.scfai.edu.cn/zsb/info/1001/4056.htm"
-            class="nav-link-red"
+            class="nav-link"
             >2026年接收硕士推免生</a
           >
         </div>
