@@ -49,13 +49,13 @@
             >硕士招生章程</a
           >
           <a
-            href="https://www.scfai.edu.cn/zsb/info/1001/4096.htm"
+            href="https://www.scfai.edu.cn/system/_content/download.jsp?urltype=news.DownloadAttachUrl&owner=1268132975&wbfileid=22CD7926DF1B28AFDC0609B7BAD9127C"
             class="nav-link-red"
             >硕士招生专业目录</a
           >
           <a
-            href="https://book.yunzhan365.com/zrprt/ofrn/mobile/index.html"
-            class="nav-link"
+            href="https://bookh.yunzhan365.com/zrprt/wzvv/mobile/index.html?hyztg=1l"
+            class="nav-link-red"
             >硕士招生专业简介</a
           >
           <a
