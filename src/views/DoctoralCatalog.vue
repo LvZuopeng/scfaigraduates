@@ -3,10 +3,25 @@
     <div class="header">
       <router-link to="/" class="back-link">← 返回首页</router-link>
     </div>
-    <iframe src="/files/附件1—四川美术学院2026年博士研究生招生专业目录.pdf" width="100%" height="100%">
+    <iframe :src="pdfPath" width="100%" height="100%">
     </iframe>
   </div>
 </template>
+
+<script>
+export default {
+  data() {
+    return {
+      publicPath: process.env.BASE_URL
+    }
+  },
+  computed: {
+    pdfPath() {
+      return `${this.publicPath}files/附件1—四川美术学院2026年博士研究生招生专业目录.pdf`
+    }
+  }
+}
+</script>
 
 <style scoped>
 .pdf-container {
