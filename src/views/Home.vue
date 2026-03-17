@@ -26,17 +26,17 @@
           <span class="buttonGroupTitle">博士招生</span>
           <a
             href="https://www.scfai.edu.cn/zsb/info/1073/4266.htm"
-            class="nav-link-red"
+            class="nav-link"
             >博士招生章程</a
           >
           <router-link
             to="/doctoral-catalog"
-            class="nav-link-red"
+            class="nav-link"
             >博士招生专业目录</router-link
           >
           <a
-            href="https://book.yunzhan365.com/zrprt/nsgr/mobile/index.html"
-            class="nav-link"
+            href="https://book.yunzhan365.com/zrprt/bdyc/mobile/index.html"
+            class="nav-link-red"
             >博士招生专业简介</a
           >
         </div>
